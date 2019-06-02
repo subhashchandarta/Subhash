@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22117" started-at="2019-06-02T09:22:48Z" finished-at="2019-06-02T09:23:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22117" started-at="2019-06-02T09:22:48Z" finished-at="2019-06-02T09:23:10Z">
+      <class name="scripts.TestLogin">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestLogin@7c0e2abd]" name="openApplication" is-config="true" duration-ms="7109" started-at="2019-06-02T14:52:48Z" finished-at="2019-06-02T14:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:scripts.TestLogin@7c0e2abd]" name="testLogin" duration-ms="5936" started-at="2019-06-02T14:52:55Z" finished-at="2019-06-02T14:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestLogin@7c0e2abd]" name="closeApplication" is-config="true" duration-ms="9053" started-at="2019-06-02T14:53:01Z" finished-at="2019-06-02T14:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

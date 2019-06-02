@@ -19,11 +19,11 @@ public class Elevator1customer {
 		{
 			if( ev1 instanceof Floor1)
 			{
-				System.out.println("You reached first floor !");
+				System.out.println("You reached first floor");
 			}
 			else if(ev1 instanceof Floor2)
 			{
-				System.out.println("You reached second floor !");
+				System.out.println("You reached second floor");
 			}
 		}
 		sc.close();
